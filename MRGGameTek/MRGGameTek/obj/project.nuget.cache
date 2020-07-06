@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xdmc8VFsm/YUib6VVa4cuIQYTcWALhsOH/e0MJ7otGgyDaDVjjBRO6bWaHTSMXUAlf7a8ON9uwe5Vzj/u0kYlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlos Araujo\\source\\repos\\MRGGameTek\\MRGGameTek\\MRGGameTek\\MRGGameTek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos Araujo\\.nuget\\packages\\system.io.pipelines\\4.7.2\\system.io.pipelines.4.7.2.nupkg.sha512",
+    "C:\\Users\\Carlos Araujo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
